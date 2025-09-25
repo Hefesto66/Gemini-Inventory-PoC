@@ -1,0 +1,411 @@
+{
+  "version": "1.1",
+  "generated_at": "2025-09-23T20:29:36Z",
+  "records": [
+    {
+      "id": "ad7fff75-ccf1-4385-a794-9b0f48e2a0b0",
+      "category": "01. COMPONENTES / 01.01 Proteção e Manobra / 01.01.01. Minidisjuntor",
+      "standard_name": "MINIDISJUNTOR TERMOMAGNÉTICO, 20A MONOPOLAR, 10KA, CURVA C - SJ201-C20",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "MINIDISJUNTOR TERMOMAGNÉTICO, 6A BIPOLAR, 6KA, CURVA C - SJ202-C6"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "704ec7fe-36b7-4187-a957-5188730c8290",
+      "category": "01. COMPONENTES / 01.01 Proteção e Manobra / 01.01.04. Disjuntor Motor",
+      "standard_name": "BLOCO DE CONTATO AUXILIAR, 1NA+1NF, MONTAGEM LATERAL, P/ DISJUNTOR MOTOR - HK1-11",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "BLOCO DE CONTATO AUXILIAR, 1NA+1NF, MONTAGEM LATERAL, P/ DISJUNTOR MOTOR - HK1-11"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "91724cd1-0ad2-4af5-af29-cb1d0139c800",
+      "category": "01. COMPONENTES / 01.01 Proteção e Manobra / 01.01.04. Disjuntor Motor",
+      "standard_name": "MINIDISJUNTOR MAGNÉTICO 10A TRIPOLAR, 25KA, CURVA D - M303P-D10",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "MINIDISJUNTOR MAGNÉTICO 10A TRIPOLAR, 25KA, CURVA D - M303P-D10"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "5f7a796a-c894-446f-bc94-f12fcee49bca",
+      "category": "01. COMPONENTES / 01.01 Proteção e Manobra / 01.01.04. Disjuntor Motor",
+      "standard_name": "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 16A TRIPOLAR, 25KA - M303P-D16",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 16A TRIPOLAR, 25KA - M303P-D16"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "7b3c4b7e-01bf-4cd1-9404-3fa25a792bc9",
+      "category": "01. COMPONENTES / 01.01 Proteção e Manobra / 01.01.04. Disjuntor Motor",
+      "standard_name": "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 20A TRIPOLAR, 25KA - M303P-D20",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 20A TRIPOLAR, 25KA - M303P-D20"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "7f077ba5-7a94-4835-95ce-1c03059f0760",
+      "category": "01. COMPONENTES / 01.01 Proteção e Manobra / 01.01.04. Disjuntor Motor",
+      "standard_name": "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 25A TRIPOLAR, 25KA - M303P-D25",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 25A TRIPOLAR, 25KA - M303P-D25"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "9ec060ba-5d77-4b2e-9530-5ad04d5e0638",
+      "category": "01. COMPONENTES / 01.01 Proteção e Manobra / 01.01.04. Disjuntor Motor",
+      "standard_name": "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 32A TRIPOLAR, 25KA - M303P-D32",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 32A TRIPOLAR, 25KA - M303P-D32"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "efabbe04-4ec9-404a-b9cf-56bdd4ec2036",
+      "category": "01. COMPONENTES / 01.01 Proteção e Manobra / 01.01.04. Disjuntor Motor",
+      "standard_name": "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 40A TRIPOLAR, 25KA - M303P-D40",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 40A TRIPOLAR, 25KA - M303P-D40"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "5835de23-a9e9-4927-af19-bd45ef115ef3",
+      "category": "01. COMPONENTES / 01.01 Proteção e Manobra / 01.01.04. Disjuntor Motor",
+      "standard_name": "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 63A TRIPOLAR, 25KA - M303P-D63",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "MINIDISJUNTOR MOTOR SOMENTE MAGNÉTICO, 63A TRIPOLAR, 25KA - M303P-D63"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "fedb90dd-6bf3-4739-bcc4-dbe06d1e6cff",
+      "category": "01. COMPONENTES / 01.02 Acionamento de Motores / 01.02.03 Contator",
+      "standard_name": "BLOCO DE CONTATO AUXILIAR, 2NA, MONTAGEM FRONTAL, P/ MINICONTATOR - CAF6-20M",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "BLOCO DE CONTATO AUXILIAR, 2NA, MONTAGEM FRONTAL, P/ MINICONTATOR - CAF6-20M"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "62239d93-4496-4f2a-9c77-6a793e82d789",
+      "category": "01. COMPONENTES / 01.06 Instrumentação e Medição / 01.06.01 Sensor",
+      "standard_name": "SENSOR DE CORRENTE, FAIXA DE AJUSTE 0.2-30A, CONTATO NF - M3056",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "SENSOR DE CORRENTE, FAIXA DE AJUSTE 0.2-30A, CONTATO NF - M3056"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "60fc5fd2-b2cd-483c-af64-ba931ae8825d",
+      "category": "01. COMPONENTES / 01.07 Conexão Elétrica / 01.07.01 Borne e Acessório",
+      "standard_name": "BORNE DE PASSAGEM, 4MM², 32A, BEGE - SAK 4 EN",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "BORNE DE PASSAGEM, 4MM², 32A, BEGE - SAK 4 EN"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "e875ce0a-ddef-4615-ac97-0b798067b995",
+      "category": "01. COMPONENTES / 01.07 Conexão Elétrica / 01.07.01 Borne e Acessório",
+      "standard_name": "BORNE DE PASSAGEM, 6MM², 46A, BEGE - ST5P",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "BORNE DE PASSAGEM, 6MM², 46A, BEGE - ST5P"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "e28abede-5a56-44f8-bc85-f8e1d2b7db65",
+      "category": "01. COMPONENTES / 01.07 Conexão Elétrica / 01.07.01 Borne e Acessório",
+      "standard_name": "PONTE CONECTORA, 3 POLOS, PARA BORNE SAK 4 - Q 3",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "PONTE CONECTORA, 3 POLOS, PARA BORNE SAK 4 - Q 3"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "fee0b204-6231-4107-9cc4-52ed5299a852",
+      "category": "01. COMPONENTES / 01.07 Conexão Elétrica / 01.07.01 Borne e Acessório",
+      "standard_name": "PONTE CONECTORA, 4 POLOS, PARA BORNE SAK 4 - Q 4 SAK4",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "PONTE CONECTORA, 4 POLOS, PARA BORNE SAK 4 - Q 4 SAK4"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "cc2c22ca-3a68-4409-832f-73fac5b183e3",
+      "category": "01. COMPONENTES / 01.07 Conexão Elétrica / 01.07.01 Borne e Acessório",
+      "standard_name": "POSTE FINAL PARA TRILHO TS35, BEGE - EW35",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "POSTE FINAL PARA TRILHO TS35, BEGE - EW35"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "45ac8224-8abf-436c-acd5-2d276a033837",
+      "category": "01. COMPONENTES / 01.07 Conexão Elétrica / 01.07.01 Borne e Acessório",
+      "standard_name": "TAMPA FINAL PARA BORNE, BEGE - AP PA ST5P",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "TAMPA FINAL PARA BORNE, BEGE - AP PA ST5P"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "c891dc3c-c437-49a2-a9eb-4f282b9dd6d8",
+      "category": "01. COMPONENTES / 01.09 Estruturas e Invólucros / 01.09.01 Quadro e Armário Metálico",
+      "standard_name": "CAIXA METÁLICA 600X1000X300MM (LXAXP), AÇO INOX 304, ESCOVADO - POLARIS",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "CAIXA METÁLICA 600X1000X300MM (LXAXP), AÇO INOX 304, ESCOVADO - POLARIS"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "c5d386da-5ee0-4d6a-bff5-889a8afcb801",
+      "category": "01. COMPONENTES / 01.09 Estruturas e Invólucros / 01.09.01 Quadro e Armário Metálico",
+      "standard_name": "QUADRO DE DISTRIBUIÇÃO METÁLICO DE EMBUTIR, 72 MÓDULOS, 450X750X85MM, AÇO CARBONO, IP40 - TTW01",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "QUADRO DE DISTRIBUIÇÃO METÁLICO DE EMBUTIR, 72 MÓDULOS, 450X750X85MM, AÇO CARBONO, IP40 - TTW01"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "47bff93f-a9d8-4a8f-a086-a4c3349a78ed",
+      "category": "01. COMPONENTES / 01.09 Estruturas e Invólucros / 01.09.01 Quadro e Armário Metálico",
+      "standard_name": "SUPORTE DE PAREDE, PARA CAIXA POLARIS, RAL7035, KIT 4 PEÇAS - SPP",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "SUPORTE DE PAREDE, PARA CAIXA POLARIS, RAL7035, KIT 4 PEÇAS - SPP"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "461bd046-12a8-450e-ac76-0198dd983231",
+      "category": "01. COMPONENTES / 01.09 Estruturas e Invólucros / 01.09.03 Trilho DIN, Canaleta e Perfilado",
+      "standard_name": "TRILHO DIN, 35X7,5MM, LISO, COM 2 METROS - TDR-2",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "TRILHO DIN, 35X7,5MM, LISO, COM 2 METROS - TDR-2"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "615eb147-f679-4837-9e61-e37f9e024575",
+      "category": "01. COMPONENTES / 01.09 Estruturas e Invólucros / 01.09.05 Ventilação/Climatização",
+      "standard_name": "RESISTENCIA DE AQUECIMENTO, 75W, 110-250VCA - PTC",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "RESISTENCIA DE AQUECIMENTO, 75W, 110-250VCA - PTC"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "f9fae87d-6fde-44e1-9f98-d956d54b8e55",
+      "category": "01. COMPONENTES / 01.09 Estruturas e Invólucros / 01.09.05 Ventilação/Climatização",
+      "standard_name": "TERMOSTATO PARA AQUECIMENTO, 0-60°C, CONTATO NF - NTL 79",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "TERMOSTATO PARA AQUECIMENTO, 0-60°C, CONTATO NF - NTL 79"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "29794d71-bb8e-4bac-8e85-c9d93dbbe4ef",
+      "category": "01. COMPONENTES / 01.11 Identificação e Acabamento / 01.11.01 Etiqueta e Porta-plaqueta",
+      "standard_name": "SUPORTE PARA IDENTIFICADOR DE BORNES, PARA TRILHO TS-32/35 - SCHT 5",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "SUPORTE PARA IDENTIFICADOR DE BORNES, PARA TRILHO TS-32/35 - SCHT 5"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "73b7dc6e-0a05-4944-b15a-dfca1b51b40c",
+      "category": "02. PRODUTO FINAL / 02.02. Quadro de Distribuição",
+      "standard_name": "QD-ACP- PORTO BELO - AUTÓDROMO",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "QD-ACP- PORTO BELO - AUTÓDROMO"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "b66418b9-df35-411f-b851-7e508e83e820",
+      "category": "04. SERVIÇOS / 04.04. Serviços Automação",
+      "standard_name": "ACESSO REMOTO AO SUPERVISÓRIO",
+      "attributes": {},
+      "raw_descriptions_found": [
+        "ACESSO REMOTO AO SUPERVISÓRIO"
+      ],
+      "metadata": {
+        "created_at": "2025-09-23T20:20:59Z",
+        "updated_at": "2025-09-23T20:29:36Z",
+        "author": "AI"
+      },
+      "confidence_score": 0.0
+    },
+    {
+      "id": "34c5e2b8-42aa-4c52-910b-9ac31ce2b088",
+      "category": "01. COMPONENTES / 01.07 Conexão Elétrica / 01.07.05 Tomada e Plugue",
+      "standard_name": "TOMADA EMBUTIR 125A 230V 3P+T+N IP67 6H - (SEM MODELO)",
+      "attributes": {
+        "Polos": "3P+T+N",
+        "Corrente Nominal": "125A",
+        "IP": "IP67",
+        "Tensão": "230V",
+        "Observações": "NCM: 8536.69.10"
+      },
+      "raw_descriptions_found": [
+        "TOMADA EMBUTIR 125A IP67 230V 3P+T+N 6H - 15 GRAUS NCM 8536.69.10"
+      ]
+    }
+  ]
+}
