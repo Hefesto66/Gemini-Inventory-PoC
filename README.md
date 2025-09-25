@@ -1,7 +1,11 @@
 Padronizador de componentes de IA (PoC)
 
 📖 Sobre o Projeto
-Este projeto é uma Prova de Conceito (Prova de Conceito) desenvolvido para explorar e entender como capacidades da API do Google Gemini no contexto de aplicações especializadas. O objetivo principal foi criar um sistema inteligente para padronizar e enriquecer dados de insumos elétricos, serviço como protetor para uma futura implementação de uma lógica de LLM em produção no WebApp interno da AX Automação.
+
+Este projeto é uma Prova de Conceito (PoC) desenvolvido para explorar e entender como capacidades da API do Google Gemini no contexto de aplicações especializadas. O objetivo principal foi criar um sistema inteligente para padronizar e enriquecer dados de insumos elétricos, serviço como protetor para uma futura implementação de uma lógica de LLM em produção no WebApp interno da AX Automação.
+O objetivo principal foi criar um sistema inteligente para padronizar e enriquecer dados de insumos elétricos, serviço como protetor para uma futura implementação de uma lógica de LLM em produção no WebApp interno da AX Automação. 
+Desenvolvido para explorar e entender como capacidades da API do Google Gemini no contexto de aplicações especializadas. 
+O objetivo principal foi criar um sistema inteligente para padronizar e enriquecer dados de insumos elétricos, serviço como protetor para uma futura implementação de uma lógica de LLM em produção no WebApp interno da AX Automação.
 
 A aplicação funciona em um cliente simples de terminal e é capaz de:
 
@@ -79,4 +83,5 @@ Interface Web: Desenvolvedor uma interface visual simples com Streamlit ou Gradi
 Tratamento de Erros: Implementar um tratamento de erros mais robusto para lidar com falhas de API ou problemas de formação de arquivos.
 
 Testes Unitários: Adicionar testes para funções em ai_core.py e data_manager.py para garantir a confiabilidade do código.
+
 
