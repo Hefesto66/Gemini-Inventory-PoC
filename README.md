@@ -1,6 +1,7 @@
 Padronizador de componentes de IA (PoC)
+
 📖 Sobre o Projeto
-Este projeto é uma Prova de Conceito (Prova de Conceito) desenvolvido para explorar e entender como capacidades da API do Google Gemini no contexto de aplicações especializadas. O objetivo principal foi criar um sistema inteligente para padronizar e enriquecer dados de insumos elétricos, servindo como protetor para uma futura implementação de uma lógica de LLM em produção no WebApp interno da AX Automação.
+Este projeto é uma Prova de Conceito (Prova de Conceito) desenvolvido para explorar e entender como capacidades da API do Google Gemini no contexto de aplicações especializadas. O objetivo principal foi criar um sistema inteligente para padronizar e enriquecer dados de insumos elétricos, serviço como protetor para uma futura implementação de uma lógica de LLM em produção no WebApp interno da AX Automação.
 
 A aplicação funciona em um cliente simples de terminal e é capaz de:
 
@@ -37,8 +38,8 @@ Python 3.8 ou superior
 Uma chave de API do Google Gemini. Você pode obter uma no Google AI Studio.
 
 2. Instalação
-um. Clone o repositório:
-clone git [URL_DO_SEU_REPOSITÓRIO]
+zumbir. Clone o repositório:
+git clonar [URL_DO_SEU_REPOSITÓRIO]
 cd [NOME_DO_SEU_REPOSITÓRIO]
 
 b. Crie e ativo um ambiente virtual:
@@ -46,7 +47,7 @@ python -m venv venv
 # Sem Windows
 venv\Scripts\ativar
 # Sem macOS/Linux
-fonte venv/bin/activate
+fonte venv/bin/ativar
 
 c. Crie um arquivo requirements.txt com o seguinte conteúdo:
 google-generativeai
@@ -56,10 +57,10 @@ d. Instale como dependências:
 pip install -r requisitos.txt
 
 3. Configuração
-um. Crie um arquivo .env na raiz do projeto para armazenar sua chave de API de forma segura:
+zumbir. Crie um arquivo .env na raiz do projeto para armazenar sua chave de API de forma segura:
 GEMINI_API_KEY="CHAVE_API"
 
-b. Garanta que os arquivos de dados estejam apresenta:
+b. Garanta que os arquivos de dados estão presentes:
 categorias.json
 inventário padrão.json
 
@@ -78,3 +79,4 @@ Interface Web: Desenvolvedor uma interface visual simples com Streamlit ou Gradi
 Tratamento de Erros: Implementar um tratamento de erros mais robusto para lidar com falhas de API ou problemas de formação de arquivos.
 
 Testes Unitários: Adicionar testes para funções em ai_core.py e data_manager.py para garantir a confiabilidade do código.
+
