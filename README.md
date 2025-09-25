@@ -1,6 +1,6 @@
-#Padronizador de componentes de IA (PoC)
+# Padronizador de componentes de IA (PoC)
 
-#📖 Sobre o Projeto
+# 📖 Sobre o Projeto
 
 Este projeto é uma Prova de Conceito (PoC) desenvolvido para explorar e entender como capacidades da API do Google Gemini no contexto de aplicações especializadas. O objetivo principal foi criar um sistema inteligente para padronizar e enriquecer dados de insumos elétricos, serviço como protetor para uma futura implementação de uma lógica de LLM em produção no WebApp interno da AX Automação.
 O objetivo principal foi criar um sistema inteligente para padronizar e enriquecer dados de insumos elétricos, serviço como protetor para uma futura implementação de uma lógica de LLM em produção no WebApp interno da AX Automação. 
@@ -17,7 +17,7 @@ Sugerir um nome padronizado para o componente.
 
 Aprender com as interações, salvando novos exemplos em uma base de conhecimento.
 
-#📚 Funções Principais
+# 📚 Funções Principais
 Arquitetura Modular: O código é organizado de forma limpa, separando a lógica de interação com o usuário (main.py), o núcleo de IA (ai_core.py) e o gerenciamento de dados (data_manager.py).
 
 Fluxo de IA de Múltiplos Passos: A IA primeiro classificado o insumo para entender o contexto e depois realizar a padronização, garantindo resultados mais precisos.
@@ -26,14 +26,14 @@ Base de Conhecimento Dinâmica: O sistema utiliza um arquivo standard-inventory.
 
 Interação via Terminal: A aplicação é operada diretamente pelo terminal, com um loop interativo que guia o usuário.
 
-#🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 Linguagem: Python
 
 Inteligência Artificial: Google Gemini API (google-generativeai)
 
 Gerenciamento de Dados: JSON
 
-#🧑‍💻 Como Executar o Projeto
+# 🧑‍💻 Como Executar o Projeto
 Siga os passos abaixo para configurar e executar o projeto em seu ambiente local.
 
 1. Pré-requisitos
@@ -48,9 +48,9 @@ cd [NOME_DO_SEU_REPOSITÓRIO]
 
 b. Crie e ativo um ambiente virtual:
 python -m venv venv
-# No Windows
+No Windows
 venv\Scripts\ativar
-# No macOS/Linux
+No macOS/Linux
 fonte venv/bin/ativar
 
 c. Crie um arquivo requirements.txt com o seguinte conteúdo:
@@ -75,7 +75,7 @@ python main.py
 Siga como instruções no terminal para interagir com o assistente de IA.
 _______________________________________________________________________________________
 
-#📈 Possíveis Melhores Futuras
+# 📈 Possíveis Melhores Futuras
 Este projeto serve como uma excelente base. As próximas etapas para evoluir-lo seriam:
 
 Interface Web: Desenvolvedor uma interface visual simples com Streamlit ou Gradio para tornar a ferragem mais acessível.
@@ -83,6 +83,7 @@ Interface Web: Desenvolvedor uma interface visual simples com Streamlit ou Gradi
 Tratamento de Erros: Implementar um tratamento de erros mais robusto para lidar com falhas de API ou problemas de formação de arquivos.
 
 Testes Unitários: Adicionar testes para funções em ai_core.py e data_manager.py para garantir a confiabilidade do código.
+
 
 
 
